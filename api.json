@@ -1,5 +1,5 @@
 {
-"1000": "Daha önce bir rejime tabi tutulmamış eşyanın kesin ihracatı",
+  "1000": "Daha önce bir rejime tabi tutulmamış eşyanın kesin ihracatı",
   "1021": "Hariçte işleme rejimi kapsamında geçici ihraç edilen eşyanın kesin ihracatı",
   "1023": "İhraç edildiği şekli ile geri gelmek üzere geçici ihraç edilen eşyanın kesin ihracatı",
   "1040": "Muafiyete tabi olmadan serbest dolaşım ile eş zamanlı yurtiçi kullanıma giren eşyanın kesin ihracatı",
@@ -33,5 +33,4 @@
   "4051": "Dahilde işleme rejimi şartlı muafiyet sistemine tabi tutulan eşyanın muafiyete tabi olmadan serbest dolaşıma girişi ile eş zamanlı yurtiçi kullanımı",
   "4053": "Geçici ithalat rejimi kapsamında ithal edilen eşyanın muafiyete tabi olmadan serbest dolaşıma girişi ile eş zamanlı yurtiçi kullanımı",
   "4058": "ATA Karnesi kapsamında geçici ithal edilen eşyanın muafiyete tabi olmadan serbest dolaşıma girişi ile eş zamanlı yurtiçi kullanımı"
-  
-  }
+}
